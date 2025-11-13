@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+  ![Profile Views](https://komarev.com/ghpvc/?username=ANDYGAB04&color=blueviolet)
   
 </div>
 

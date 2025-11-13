@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ANDYGAB04
+# 👋 Hi, I'm Suhan Mihai-Andrei
 
 <div align="center">
   

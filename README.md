@@ -12,8 +12,6 @@
 
 🌱 I'm currently learning **ASP.NET Core, Next.js, C++, and Node.js**
 
-👯 I'm looking to collaborate on **Open Source Projects**
-
 💬 Ask me about **Web Development, Backend Systems, and Software Engineering**
 
 📫 How to reach me: **suhanandrei2004@gmail.com**

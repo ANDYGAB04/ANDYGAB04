@@ -94,8 +94,9 @@
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ANDYGAB04&repo=CraiovaHackathon2025&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ANDYGAB04/CraiovaHackathon2025)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ANDYGAB04&repo=Taskly-WebApp&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ANDYGAB04/Taskly-WebApp)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ANDYGAB04&repo=NeonArcade&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ANDYGAB04/NeonArcade)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ANDYGAB04&repo=CraiovaHackathon2025&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ANDYGAB04/CraiovaHackathon2025)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=ANDYGAB04&repo=Taskly-WebApp&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ANDYGAB04/Taskly-WebApp)
 
 </div>
 

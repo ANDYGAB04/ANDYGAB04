@@ -10,7 +10,7 @@
 
 🔭 I'm currently working on **Full-Stack Web Applications**
 
-🌱 I'm currently learning **ASP.NET Core, Next.js, C++, and Node.js**
+🌱 I'm currently learning **ASP.NET Core, Next.js, Python, and Node.js**
 
 💬 Ask me about **Web Development, Backend Systems, and Software Engineering**
 
